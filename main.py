@@ -68,7 +68,7 @@ def mthd(screen):
     screen.play(scenes, stop_on_resize=False, repeat=False)
 
 def si():
-    print('       \x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233mAkaa \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to AKAA DDoS! \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mOwner: @mrmarko \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mVersion: 1')
+    print('       \x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233mHUDAS \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to HUDAS DDoS! \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mOwner: @mrmarko \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mVersion: 1')
 
 def mip():
     print(f"""[0mYour IP Is [40;38;2;127;0;255m{ip}[0m""")
